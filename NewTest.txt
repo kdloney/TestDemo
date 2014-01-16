@@ -4,7 +4,7 @@ hello
 
 how are you?
 
-cool.
+AMAZING! 
 
 Sincerely,
 MoonCat
